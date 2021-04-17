@@ -12,7 +12,7 @@ public class Student {
     public Student() {
     }
 
-    public Student(Integer regNumber, String firstName, String lastName) {
+    public Student(Integer regNumber, String firstName,  String lastName) {
         this.regNumber = regNumber;
         this.firstName = firstName;
         this.lastName = lastName;
